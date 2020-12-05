@@ -18,7 +18,6 @@ def check_by_wordlist(token):
     f = open(default_path,'rb')
     l = f.readline().strip()
     while 1:
-        print(l * 10)
         n = len(l)
         successful = checkSecret(token, l, n)
         if successful or successful == "":
