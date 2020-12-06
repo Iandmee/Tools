@@ -1,5 +1,5 @@
 # Tools
-How to use
+How to use(python2)
 
 1.Default mode( just brute by letters+digits)
 
