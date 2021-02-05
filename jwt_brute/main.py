@@ -1,5 +1,5 @@
 import string
-from jwt_brute.bruteforce import check,check_by_wordlist
+from bruteforce import check,check_by_wordlist
 import time
 import sys
 flag = "d"
